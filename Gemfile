@@ -9,7 +9,7 @@ end
 gem 'jquery-rails'
 
 gem 'devise', '>= 2.0.4'
-#gem 'omniauth-twitter'
+gem 'omniauth-twitter'
 
 group :development do
   gem 'thin'
