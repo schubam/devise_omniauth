@@ -20,3 +20,4 @@ config/initializers/secret_token.rb
 spec/dummy/tmp
 spec/dummy/log
 spec/dummy/db/*.sqlite3
+start_server.sh
