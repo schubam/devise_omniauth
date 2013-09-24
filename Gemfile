@@ -10,6 +10,7 @@ gem 'jquery-rails'
 
 gem 'devise', '>= 2.0.4'
 gem 'omniauth-twitter'
+gem 'omniauth-xing'
 
 group :development do
   gem 'thin'
